@@ -31,7 +31,7 @@ Explore some of my data analysis and visualization projects to see my skills in 
 ## 📫 Let's Connect!
 
 - LinkedIn: [Kamau Miller](https://www.linkedin.com/in/kamau-miller-b74480214/)
-- Email: your.email@example.com
+  
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or any questions. Thanks for visiting!
 

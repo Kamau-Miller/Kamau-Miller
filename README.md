@@ -14,8 +14,8 @@ Hi, I'm Kamau Miller, an active duty service member with 8 years of experience i
 
 Explore some of my data analysis and visualization projects to see my skills in action:
 
-1. [Cyclistic Data Analysis: Maximizing Annual Memberships](https://github.com/Kamau-Miller/COVID-Insights-Analyzing-Cases-Deaths-Vaccinations) - I successfully completed a comprehensive data analysis project for the Google Data Analytics certificate.
-2. [COVID Insights: Analyzing Cases, Deaths, and Vaccinations](https://github.com/Kamau-Miller/Goolgle-DA-Case-Study) - I completed a comprehensive analysis of COVID-19 data from CDC.GOV using SQL.
+1. [Cyclistic Data Analysis: Maximizing Annual Memberships](https://github.com/Kamau-Miller/Goolgle-DA-Case-Study) - I successfully completed a comprehensive data analysis project for the Google Data Analytics certificate.
+2. [COVID Insights: Analyzing Cases, Deaths, and Vaccinations](https://github.com/Kamau-Miller/COVID-Insights-Analyzing-Cases-Deaths-Vaccinations) - I completed a comprehensive analysis of COVID-19 data from CDC.GOV using SQL.
 
 ## 📚 Education
 

@@ -20,7 +20,6 @@ Explore some of my data analysis and visualization projects to see my skills in 
 ## 📚 Education
 
 - ****MS Information Technology Management (2023)**
-- 
 - ****BS Business Administration, Management Information Systems (2022)**
 
 ## 🌐 Certifications
